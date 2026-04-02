@@ -8,7 +8,7 @@ export const personal = {
   title: "Fullstack JavaScript Developer",
   location: "Tunisia",
   about: "I am a passionate fullstack developer specializing in modern web technologies. I build scalable, performant, and user-friendly applications. I enjoy solving complex problems and designing clean architectures.",
-  email: "mohamed.ghoul@example.com",
+  email: "mohavvvvd.2021@gmail.com",
   github: "https://github.com/Mohavvvvd",
   linkedin: "https://www.linkedin.com/in/mohamed-ghoul-224982287"
 };
