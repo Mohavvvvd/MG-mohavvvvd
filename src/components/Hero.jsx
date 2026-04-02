@@ -67,7 +67,7 @@ const Hero = () => {
           >
             <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full blur-2xl opacity-20 group-hover:opacity-40 transition-opacity duration-500" />
             <img
-              src="./src/assets/mg.png"
+              src="/mg.png"
               alt="Mohamed Ghoul"
               className="relative w-56 h-56 md:w-72 md:h-72 rounded-full object-cover border-4 border-white dark:border-gray-800 shadow-2xl group-hover:shadow-3xl transition-all duration-300"
             />

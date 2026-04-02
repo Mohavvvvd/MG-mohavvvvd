@@ -71,7 +71,7 @@ export const projects = [
     keyChallenge: "Designing offline-first data sync strategy for seamless mobile experience.",
     screenshotIcon: Smartphone,
     fullDescription: "Dhikir provides a simple way to track daily dhikr, set reminders, and monitor progress through visual statistics. The app architecture supports push notifications and cloud sync, ready for native implementation.",
-    screenShots: ["./screenShots/D1.jpeg" , "./screenShots/D2.jpeg"]
+    screenShots: ["/screenShots/D1.jpeg" , "/screenShots/D2.jpeg"]
 },
   {
     id: 2,
@@ -85,7 +85,7 @@ export const projects = [
     keyChallenge: "Implementing performant syntax highlighting for 20+ languages and a flexible tagging system.",
     screenshotIcon: Code2,
     fullDescription: "Users can create, edit, delete snippets, and organize them with tags. The editor uses Monaco or CodeMirror, and the backend provides a REST API with MongoDB aggregation for fast filtering."
-    ,screenShots: ["./screenShots/CS1.png" , "./screenShots/CS2.png"]  
+    ,screenShots: ["/screenShots/CS1.png" , "/screenShots/CS2.png"]  
 },
   {
     id: 3,
@@ -99,7 +99,7 @@ export const projects = [
     keyChallenge: "Optimizing performance and user experience across devices.",
     screenshotIcon: Brain,
     fullDescription: "Brain-Game challenges users with puzzles and cognitive exercises to improve memory, attention, and problem-solving skills."
-    ,screenShots: ["./screenShots/b1.jpeg" , "./screenShots/b2.jpeg"]    
+    ,screenShots: ["/screenShots/b1.jpeg" , "/screenShots/b2.jpeg"]    
 },
   {
     id: 4,
@@ -113,7 +113,7 @@ export const projects = [
     keyChallenge: "Handling concurrent connections and message ordering without performance degradation.",
     screenshotIcon: MessageCircle,
     fullDescription: "Users can create private chat rooms and communicate instantly. Features include typing indicators, read receipts, and push notifications."
-    ,screenShots: ["./screenShots/insta.png"]  
+    ,screenShots: ["/screenShots/insta.png"]  
 },
   {
     id: 5,
@@ -128,7 +128,7 @@ export const projects = [
     screenshotIcon: FileText,
     fullDescription: "Folder Organizer Pro automatically sorts files into categories, supporting documents, images, videos, and more. Works on Windows and Linux with all processing done locally."
   
-    ,screenShots: ["./screenShots/O1.png" , "./screenShots/O2.png"]  },
+    ,screenShots: ["/screenShots/O1.png" , "/screenShots/O2.png"]  },
   {
     id: 6,
     title: "Scrabble Puzzle",
@@ -142,7 +142,7 @@ export const projects = [
     screenshotIcon: Brain,
     fullDescription: "Players form words from letters to earn points, competing for the highest score. Includes sleek interface and classic Scrabble-style rules."
   
-    ,screenShots: ["./screenShots/SC1.jpeg" , "./screenShots/SC2.jpeg"]},
+    ,screenShots: ["/screenShots/SC1.jpeg" , "/screenShots/SC2.jpeg"]},
   {
     id: 7,
     title: "Serveur TCP Ultra-Sécurisé",
@@ -175,6 +175,6 @@ export const projects = [
   keyChallenge: "Implémenter un système de scores en temps réel et des classements dynamiques pour les utilisateurs.",
   screenshotIcon: Zap, // tu peux choisir n’importe quelle icône lucide, ici j’ai pris Zap pour représenter le challenge/énergie
   fullDescription: "Safra Challenge propose aux utilisateurs des défis quotidiens et des quizz interactifs. L’application calcule les scores en temps réel et affiche un classement des meilleurs participants, tout en offrant une interface ludique et responsive."
-  ,screenShots: ["./screenShots/S1.jpeg" , "./screenShots/S2.jpeg"]
+  ,screenShots: ["/screenShots/S1.jpeg" , "/screenShots/S2.jpeg"]
 }
 ];
