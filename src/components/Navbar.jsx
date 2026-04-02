@@ -13,7 +13,7 @@ const Navbar = ({ darkMode, toggleDarkMode }) => {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const navLinks = ['Projects', 'Skills', 'Experience', 'Mindset','Contact'];
+  const navLinks = ['Education','Projects', 'Skills', 'Experience', 'Mindset','Contact'];
 
   return (
     <nav className={`fixed top-0 w-full z-50 transition-all duration-300 ${scrolled ? 'glass shadow-lg' : 'bg-transparent'}`}>
